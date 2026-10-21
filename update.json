@@ -1,6 +1,6 @@
 {
   "version_code": 2,
   "version_name": "0.2.0",
-  "apk_url": "https://github.com/LilCrizzy/ukubhaka-pos-releases/releases/latest/download/Ukubhaka-POS.apk",
+  "apk_url": "https://github.com/LilCrizzy/ukubhaka-pos-releases/releases/tag/v0.2.0",
   "notes": "Adds product barcode setup and more reliable barcode scanner input."
 }
